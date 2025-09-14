@@ -50,14 +50,14 @@
           </p>
           
           <div class="flex flex-col sm:flex-row gap-6 justify-center">
-            <button class="group relative px-8 py-4 bg-gradient-to-r from-purple-500 to-blue-500 rounded-2xl font-semibold text-lg overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/25">
+            <NuxtLink to='/contact' class="group relative px-8 py-4 bg-gradient-to-r from-purple-500 to-blue-500 rounded-2xl font-semibold text-lg overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/25">
               <span class="relative z-10">Kostenlose Beratung</span>
               <div class="absolute inset-0 bg-gradient-to-r from-purple-600 to-blue-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-            </button>
+            </NuxtLink>
             
             <button class="group px-8 py-4 bg-white/5 backdrop-blur-sm border border-white/20 rounded-2xl font-semibold text-lg transition-all duration-300 hover:bg-white/10 hover:border-white/40">
               <i class="fas fa-play mr-3 text-purple-400"></i>
-              Demo ansehen
+              Mit dem KI-Bot reden
             </button>
           </div>
         </div>

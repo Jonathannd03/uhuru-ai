@@ -24,7 +24,7 @@
         </li>
       </ul>
       
-      <Button :variant="featured ? 'primary' : 'outline'" size="lg" class="w-full" to="/kontakt">
+      <Button :variant="featured ? 'primary' : 'outline'" size="lg" class="w-full" to="/contact">
         {{ featured ? 'Kostenlos starten' : 'Mehr erfahren' }}
       </Button>
       

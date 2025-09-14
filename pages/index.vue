@@ -73,7 +73,7 @@
               <div class="absolute inset-0 bg-gradient-to-r from-purple-600 to-blue-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </NuxtLink>
             
-            <NuxtLink to="/kontakt" class="group px-12 py-6 bg-white/5 backdrop-blur-sm border-2 border-white/20 rounded-3xl font-bold text-2xl transition-all duration-300 hover:bg-white/10 hover:border-white/40 hover:scale-105 inline-block">
+            <NuxtLink to="/bookAppointment" class="group px-12 py-6 bg-white/5 backdrop-blur-sm border-2 border-white/20 rounded-3xl font-bold text-2xl transition-all duration-300 hover:bg-white/10 hover:border-white/40 hover:scale-105 inline-block">
               <span class="flex items-center justify-center">
                 <i class="fas fa-calendar mr-4 text-purple-400"></i>
                 Kostenlose Beratung
@@ -192,7 +192,7 @@
                 </li>
               </ul>
               
-              <NuxtLink to="/leistungen#workflow" class="block w-full px-6 py-4 bg-gradient-to-r from-purple-500/20 to-blue-500/20 backdrop-blur-sm border border-purple-500/30 rounded-2xl font-semibold text-white hover:from-purple-500/30 hover:to-blue-500/30 transition-all duration-300 group-hover:border-purple-400 text-center">
+              <NuxtLink to="/services#workflow" class="block w-full px-6 py-4 bg-gradient-to-r from-purple-500/20 to-blue-500/20 backdrop-blur-sm border border-purple-500/30 rounded-2xl font-semibold text-white hover:from-purple-500/30 hover:to-blue-500/30 transition-all duration-300 group-hover:border-purple-400 text-center">
                 Workflows erkunden →
               </NuxtLink>
             </div>
@@ -241,7 +241,7 @@
                 </li>
               </ul>
               
-              <NuxtLink to="/leistungen#ki" class="block w-full px-6 py-4 bg-gradient-to-r from-blue-500/20 to-cyan-500/20 backdrop-blur-sm border border-blue-500/30 rounded-2xl font-semibold text-white hover:from-blue-500/30 hover:to-cyan-500/30 transition-all duration-300 group-hover:border-blue-400 text-center">
+              <NuxtLink to="/services#ki" class="block w-full px-6 py-4 bg-gradient-to-r from-blue-500/20 to-cyan-500/20 backdrop-blur-sm border border-blue-500/30 rounded-2xl font-semibold text-white hover:from-blue-500/30 hover:to-cyan-500/30 transition-all duration-300 group-hover:border-blue-400 text-center">
                 KI-Power erleben →
               </NuxtLink>
             </div>
@@ -283,7 +283,7 @@
                 </li>
               </ul>
               
-              <NuxtLink to="/leistungen#daten" class="block w-full px-6 py-4 bg-gradient-to-r from-cyan-500/20 to-green-500/20 backdrop-blur-sm border border-cyan-500/30 rounded-2xl font-semibold text-white hover:from-cyan-500/30 hover:to-green-500/30 transition-all duration-300 group-hover:border-cyan-400 text-center">
+              <NuxtLink to="/services#daten" class="block w-full px-6 py-4 bg-gradient-to-r from-cyan-500/20 to-green-500/20 backdrop-blur-sm border border-cyan-500/30 rounded-2xl font-semibold text-white hover:from-cyan-500/30 hover:to-green-500/30 transition-all duration-300 group-hover:border-cyan-400 text-center">
                 Integration starten →
               </NuxtLink>
             </div>
@@ -369,14 +369,14 @@
         </p>
         
         <div class="flex flex-col lg:flex-row gap-6 justify-center">
-          <NuxtLink to="/kontakt" class="group relative px-12 py-6 bg-gradient-to-r from-purple-500 to-blue-500 rounded-3xl font-bold text-2xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/25 inline-block">
+          <NuxtLink to="/contact" class="group relative px-12 py-6 bg-gradient-to-r from-purple-500 to-blue-500 rounded-3xl font-bold text-2xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/25 inline-block">
             <span class="relative z-10 flex items-center justify-center">
               <i class="fas fa-calendar-check mr-4 text-yellow-300"></i>
               Termin vereinbaren
             </span>
           </NuxtLink>
           
-          <NuxtLink to="/leistungen" class="group px-12 py-6 bg-white/5 backdrop-blur-sm border-2 border-white/20 rounded-3xl font-bold text-2xl transition-all duration-300 hover:bg-white/10 hover:border-white/40 hover:scale-105 inline-block">
+          <NuxtLink to="/services" class="group px-12 py-6 bg-white/5 backdrop-blur-sm border-2 border-white/20 rounded-3xl font-bold text-2xl transition-all duration-300 hover:bg-white/10 hover:border-white/40 hover:scale-105 inline-block">
             <span class="flex items-center justify-center">
               <i class="fas fa-book-open mr-4 text-purple-400"></i>
               Mehr erfahren

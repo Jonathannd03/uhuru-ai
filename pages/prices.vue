@@ -331,7 +331,7 @@
             </p>
             
             <NuxtLink 
-              to="/kontakt" 
+              to="/contact" 
               class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-2xl font-bold text-lg hover:shadow-lg hover:shadow-primary-500/25 transition-all duration-300 group"
             >
               ROI für Ihr Business berechnen
@@ -365,7 +365,7 @@
           </p>
           
           <div class="flex flex-col lg:flex-row gap-6 justify-center">
-            <NuxtLink to="/kontakt" class="group relative px-12 py-6 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-3xl font-bold text-2xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-primary-500/25 inline-block">
+            <NuxtLink to="/contact" class="group relative px-12 py-6 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-3xl font-bold text-2xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-primary-500/25 inline-block">
               <span class="relative z-10 flex items-center justify-center">
                 <i class="fas fa-calendar-check mr-4 text-yellow-300"></i>
                 Testwoche starten

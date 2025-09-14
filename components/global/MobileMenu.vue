@@ -11,7 +11,7 @@
           {{ item.name }}
         </NuxtLink>
         <NuxtLink 
-          to="/kontakt" 
+          to="/contact" 
           class="btn-primary text-center mt-4"
           @click="$emit('close')"
         >
