@@ -365,10 +365,10 @@
           </p>
           
           <div class="flex flex-col lg:flex-row gap-6 justify-center">
-            <NuxtLink to="/contact" class="group relative px-12 py-6 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-3xl font-bold text-2xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-primary-500/25 inline-block">
+            <NuxtLink to="/bookAppointment" class="group relative px-12 py-6 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-3xl font-bold text-2xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-primary-500/25 inline-block">
               <span class="relative z-10 flex items-center justify-center">
                 <i class="fas fa-calendar-check mr-4 text-yellow-300"></i>
-                Testwoche starten
+                Termin Vereinbaren
               </span>
             </NuxtLink>
             
