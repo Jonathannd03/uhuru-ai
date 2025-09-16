@@ -108,7 +108,7 @@
           </div>
           
           <NuxtLink 
-            to="/contact" 
+            to="/bookAppointment" 
             class="inline-flex items-center px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 rounded-xl font-medium transition-all duration-300 group/cta shadow-lg shadow-cyan-500/25 hover:shadow-cyan-500/40 hover:scale-105 backdrop-blur-sm border border-cyan-500/20"
           >
             <i class="fas fa-calendar-alt mr-2 group-hover/cta:scale-110 transition-transform duration-300"></i>

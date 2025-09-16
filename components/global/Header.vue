@@ -255,6 +255,7 @@ onUnmounted(() => {
 const navigation = [
   { name: 'Leistungen', href: '/services', icon: 'fas fa-cogs' },
   { name: 'Preise', href: '/prices', icon: 'fas fa-tag' },
+  { name: 'Kontakt', href: '/contact', icon: 'fas fa-tag' },
   { name: 'Über uns', href: '/about-us', icon: 'fas fa-info-circle' },
 ]
 </script>
