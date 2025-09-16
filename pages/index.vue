@@ -391,7 +391,7 @@
 
 <script setup>
 useHead({
-  title: 'Safari Neural - Intelligente Automatisierung mit n8n & KI',
+  title: 'Uhuru AI - Intelligente Automatisierung mit n8n & KI',
   meta: [
     { name: 'description', content: 'Wir automatisieren Ihre Geschäftsprozesse mit n8n und KI. Von der Beratung bis zur Implementierung: Wir bieten ganzheitliche Automatisierungslösungen.' }
   ]
